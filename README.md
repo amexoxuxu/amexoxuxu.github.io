@@ -1,5 +1,3 @@
-# amexoxuxu.github.io
-
 [정리](https://amexoxuxu.github.io/000)
 
 
