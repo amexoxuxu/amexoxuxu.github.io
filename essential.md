@@ -52,3 +52,6 @@ evening : 저녁\
 inform : 알리다\
 turn down : 거절\
 solitude : 고독
+
+**059-069**\
+eligible : 자격이 있는
