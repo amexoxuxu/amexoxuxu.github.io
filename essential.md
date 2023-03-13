@@ -55,3 +55,6 @@ solitude : 고독
 
 **059-069**\
 eligible : 자격이 있는
+
+**070-073**\
+demonstrated : 증명하다
